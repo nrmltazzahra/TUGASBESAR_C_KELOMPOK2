@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/GoDoc/src/com/sicompany/godoc/accounts/Admin.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/GoDoc/src/com/sicompany/godoc/accounts/Pasien.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/GoDoc/src/com/sicompany/godoc/screens/LoginScreen.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/GoDoc/src/com/sicompany/godoc/connections/PopulateDatabase.sql</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/GoDoc/src/com/sicompany/godoc/accounts/Roles.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/GoDoc/src/com/sicompany/godoc/accounts/User.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/GoDoc/src/com/sicompany/godoc/screens/RegisterScreen.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/GoDoc/src/com/sicompany/godoc/connections/InitializeDatabase.sql</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/GoDoc/src/com/sicompany/godoc/Main.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/GoDoc/src/com/sicompany/godoc/connections/DbConnection.java</file>
+            <file>file:/C:/Users/asus/Documents/NetBeansProjects/GoDoc/src/com/sicompany/godoc/screens/MainScreen.java</file>
+        </group>
+    </open-files>
+</project-private>
